@@ -1,0 +1,7 @@
+{
+  "name": "PaperBlueprint - CS Research Agent",
+  "description": "Advanced Computer Science Research Agent for academic paper analysis, Mermaid architecture flowcharts, and 3rd-year CS student resume project blueprints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
